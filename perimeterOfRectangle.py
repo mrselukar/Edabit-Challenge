@@ -1,0 +1,5 @@
+x = input ("enter a number \t")
+x = float(x)
+y = float(input ("enter a number \t"))
+result = 2*(x+y)
+print(result) 
